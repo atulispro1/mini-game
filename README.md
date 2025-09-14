@@ -1,6 +1,6 @@
 # 🖱️ Minigame
 
-**Play here 👉 [Game Link](YOUR_GAME_LINK_HERE)**
+**Play here 👉 [https://atulispro1.github.io/mini-game/]**
 
 ---
 
